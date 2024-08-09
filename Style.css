@@ -93,7 +93,39 @@ ul{
     list-style: none;
 }
 
-a #li-p{
+.bt1{
+    text-decoration: none;
+    color: #f4a4a5;
+    display: block;
+    padding: 0px 65px;
+    margin-left: 99px;
+}
+
+.bt2{
+    text-decoration: none;
+    color: #f4a4a5;
+    display: block;
+    padding: 0px 65px;
+    margin-left: 99px;
+}
+
+.bt3{
+    text-decoration: none;
+    color: #f4a4a5;
+    display: block;
+    padding: 0px 65px;
+    margin-left: 99px;
+}
+
+.bt4{
+    text-decoration: none;
+    color: #f4a4a5;
+    display: block;
+    padding: 0px 65px;
+    margin-left: 99px;
+}
+
+.bt5{
     text-decoration: none;
     color: #f4a4a5;
     display: block;
